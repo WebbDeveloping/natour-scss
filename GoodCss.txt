@@ -1,0 +1,35 @@
+3 pillars to write good html and css... and build good websites.
+
+RESPONSIVE DESIGN - MAINTAINABLE & SCALABLE CODE - WEB PERFORMANCE
+fluid layouts           clean                           less http requests
+media queries           eassy to udnerstand             leess code
+responsive immages      growth                          compress code
+correct unit            reusable                        use CSS preprocessor
+desktop/mobile-first    organize files                  less imaages
+                        how to name classes             compress imaages
+                        how to structure html
+
+CASCADE - process of combining different stylesheets and resolving conflicts 
+between different css rules and declarations, when more than one rule 
+applies to a certain element.
+Author css - written by developer.
+User css - Provided by the user.
+Browser (user agent) .. (like a blue link/underline tag)
+
+
+CSS VALUE ssssPROCESSING:
+Each property has an intitial valuee, useed if nothing is declared(and if
+there is no inheritance).
+Browsers specify aa root font-size for each page (usually 16px)
+percentages and relative values are always converted to pixels
+percentages are measured relative to thier parentss font-size, if used to specify font-size;
+percentages are measured relative to their parents width, if used to specify lengths;
+em are measured relative to thier parent font-size, if used to specify font-size;
+em are measured realtive to ccurrent font-size if used to specify length;
+
+
+
+THE VISUAAL FORMATTIN MODEL
+Algorithm thaat calculates boxes and determines the layout of these boxes
+for each element in the render treee, in order tto determine the final
+layout of the page.

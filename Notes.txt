@@ -1,0 +1,13 @@
+    
+    attribute. finds any class that BEGINS with ("col-")
+    [class^="col-"]{
+        
+    }   
+finds any class that CONTAINS with ("col-")
+    [class*="col-"]{
+        
+    }       
+finds any class that ENDS with ("col-")
+    [class$="col-"]{
+        
+    }       
